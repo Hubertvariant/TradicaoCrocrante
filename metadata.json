@@ -1,0 +1,6 @@
+{
+  "name": "App de Pão de Queijo",
+  "description": "App para agendamento de pão de queijo, geolocalização de padarias, sistema de fidelidade, chat com suporte IA, avaliações, modo escuro e multi-idioma.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
